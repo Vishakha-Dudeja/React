@@ -1,2 +1,2 @@
 # React
-Basics of react
+Basics of react js
