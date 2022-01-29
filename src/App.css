@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+
+.btn-outline-dark {
+  flex: 1 1 auto!important;
+}
+
+.btn-outline-dark.active {
+  background-color: #4D217A !important;
+}
